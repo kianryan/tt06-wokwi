@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Two XOR gates input a AND gate.  The the output from the AND gate is the final OUTPUT.
 
 ## How to test
 
-Explain how to use your project
+XOR 1 is on INPUT 0/1, XOR 2 is on INPUT 2/3.
+OUTPUT 0 is OUTPUT from AND.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Not dependant on external hardware, but an LED output may be nice.
